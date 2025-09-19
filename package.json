@@ -1,0 +1,28 @@
+{
+  "name": "react_project",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Varshini07203/React#readme",
+  "bugs": {
+    "url": "https://github.com/Varshini07203/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varshini07203/React.git"
+  },
+  "license": "ISC",
+  "author": "Varshini",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
